@@ -1,2 +1,2 @@
 # Sudoku
-work out answers autolly with C++
+Give all correct solutions for your sudoku problem.
