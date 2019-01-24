@@ -1,2 +1,2 @@
 # Sudoku
-work out answers autolly with C++ without STL
+work out answers autolly with C++
